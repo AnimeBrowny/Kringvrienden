@@ -1,0 +1,65 @@
+body{
+    position: absolute;
+    width: 100%;
+    height: 700%;
+    background-color: #210809;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+}
+
+
+/*header - logo positie, benaming pagina*/
+
+header .logo{
+    position: fixed;
+    width: 35%;
+    margin: 1%;
+    margin-left: 2%;
+    margin-top: 2%;
+}
+header h1 {
+    position: fixed;
+    margin: 85%;
+    margin-top: 6%;
+    color: #ed8719;
+    float: right;
+}
+header .achtergrond{
+    position: fixed;
+    z-index: -1;
+    width: 103%;
+    margin: -2%;
+}
+/*navigatie - alle tabbladen*/
+
+nav{
+    position: fixed;
+    margin: 14%;
+    width: 100%;
+}
+nav ul{
+    list-style: none;
+    z-index: 1;
+    margin-left: -28%;
+    margin-top: 0%;
+}
+nav li{
+    display: inline;
+    margin-left: 15.5%;
+    font-size: 133%;
+    text-underline: none;
+}
+nav img{
+    width: 105%;
+    position: fixed;
+    margin: -3%;
+    margin-left: -19%;
+    z-index: -1;
+}
+nav li:hover{
+    color: #ffffff;
+    cursor: pointer;
+}
+/*navigatie - het submenu*/
+nav ul ul li{
+    display: block;
+}
