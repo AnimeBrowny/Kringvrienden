@@ -1,0 +1,16 @@
+
+#iframe {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    overflow-x: hidden none;
+}
+#iframe img{
+    width:100%;
+
+}
+article {
+    position: relative;
+    color: violet;
+    margin-top: 10%;
+}
