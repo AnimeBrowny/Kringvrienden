@@ -2,35 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2958c349-c798-43b6-80a0-83d54781a224" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-begraafplaatswandeling.html" afterPath="$PROJECT_DIR$/iframe-begraafplaatswandeling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-bierwandeling.html" afterPath="$PROJECT_DIR$/iframe-bierwandeling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-bouwhistoriestjan.html" afterPath="$PROJECT_DIR$/iframe-bouwhistoriestjan.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-carnavalswandeling.html" afterPath="$PROJECT_DIR$/iframe-carnavalswandeling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-citadel.html" afterPath="$PROJECT_DIR$/iframe-citadel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-cultuurwandeling.html" afterPath="$PROJECT_DIR$/iframe-cultuurwandeling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-groottuighuis.html" afterPath="$PROJECT_DIR$/iframe-groottuighuis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-highteasalonboot.html" afterPath="$PROJECT_DIR$/iframe-highteasalonboot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-hofjespleintjeswandeling.html" afterPath="$PROJECT_DIR$/iframe-hofjespleintjeswandeling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-jeroenbosch.html" afterPath="$PROJECT_DIR$/iframe-jeroenbosch.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-paleiswandeling.html" afterPath="$PROJECT_DIR$/iframe-paleiswandeling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-paterskapucijnen.html" afterPath="$PROJECT_DIR$/iframe-paterskapucijnen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-stadhuis.html" afterPath="$PROJECT_DIR$/iframe-stadhuis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-stcatrienskerk.html" afterPath="$PROJECT_DIR$/iframe-stcatrienskerk.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-stegenwandeling.html" afterPath="$PROJECT_DIR$/iframe-stegenwandeling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-stjanskathedraal.html" afterPath="$PROJECT_DIR$/iframe-stjanskathedraal.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-stjansmuseum.html" afterPath="$PROJECT_DIR$/iframe-stjansmuseum.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-stjanstoren.html" afterPath="$PROJECT_DIR$/iframe-stjanstoren.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-vaartochtsalonboot.html" afterPath="$PROJECT_DIR$/iframe-vaartochtsalonboot.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-vaarwandelroute-binnenstad.html" afterPath="$PROJECT_DIR$/iframe-vaarwandelroute-binnenstad.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-vaarwandelroute-vughtereiland.html" afterPath="$PROJECT_DIR$/iframe-vaarwandelroute-vughtereiland.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-vestingwandeling.html" afterPath="$PROJECT_DIR$/iframe-vestingwandeling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-wintervaartocht.html" afterPath="$PROJECT_DIR$/iframe-wintervaartocht.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/iframe-zwanenbroedershuis.html" afterPath="$PROJECT_DIR$/iframe-zwanenbroedershuis.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rondleidingen.html" afterPath="$PROJECT_DIR$/rondleidingen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/rondvaart.html" afterPath="$PROJECT_DIR$/rondvaart.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/verhalen.html" afterPath="$PROJECT_DIR$/verhalen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wandelingen.html" afterPath="$PROJECT_DIR$/wandelingen.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Kringvrienden website github.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -58,18 +31,38 @@
       <file leaf-file-name="rondvaart.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rondvaart.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="975">
-              <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+            <state vertical-scroll-proportion="-8.75" vertical-offset="285" max-vertical-offset="975">
+              <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="verhalen.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.84615386" vertical-offset="360" max-vertical-offset="945">
+              <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="verhalen.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/verhalen.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2820513" vertical-offset="0" max-vertical-offset="750">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+            <state vertical-scroll-proportion="-16.25" vertical-offset="120" max-vertical-offset="750">
+              <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iframe-verhalen.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/iframe-verhalen.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="255">
+              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -146,8 +139,9 @@
         <option value="$PROJECT_DIR$/rondleidingen.html" />
         <option value="$PROJECT_DIR$/wandelingen.html" />
         <option value="$PROJECT_DIR$/rondvaart.html" />
-        <option value="$PROJECT_DIR$/verhalen.html" />
         <option value="$PROJECT_DIR$/contacten.html" />
+        <option value="$PROJECT_DIR$/verhalen.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -310,13 +304,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.84210527" vertical-offset="0" max-vertical-offset="630">
-          <caret line="32" column="29" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/indexstylesheet.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1050">
@@ -580,14 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rondvaart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="975">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contacten.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.875" vertical-offset="0" max-vertical-offset="750">
@@ -596,10 +575,34 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/iframe-verhalen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="255">
+          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/verhalen.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2820513" vertical-offset="0" max-vertical-offset="750">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state vertical-scroll-proportion="-16.25" vertical-offset="120" max-vertical-offset="750">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rondvaart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.75" vertical-offset="285" max-vertical-offset="975">
+          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.84615386" vertical-offset="360" max-vertical-offset="945">
+          <caret line="57" column="7" selection-start-line="57" selection-start-column="7" selection-end-line="57" selection-end-column="7" />
           <folding />
         </state>
       </provider>
