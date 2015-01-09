@@ -185,6 +185,9 @@ footer a{
         margin-left: -29.4%;
         visibility: hidden;
     }
+    nav ul li:hover ul {
+        visibility: visible;
+    }
     nav ul ul li {
         display: block;
         margin-top: -4%;
