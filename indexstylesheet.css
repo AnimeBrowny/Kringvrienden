@@ -106,7 +106,7 @@ nav ul li:hover ul {
     visibility: visible;
 }
 /*section - het scrollachtergrond*/
-section iframe{
+div iframe{
     position: relative;
     z-index: -45;
     width: 96%;
