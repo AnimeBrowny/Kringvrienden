@@ -4,6 +4,7 @@
     padding: 0;
     position: absolute;
     overflow-x: hidden none;
+    overflow-y: hidden;
 }
 #iframe img{
     width:100%;
@@ -11,6 +12,10 @@
 }
 article {
     position: relative;
-    color: violet;
-    margin-top: 10%;
+    color: #000000;
+    margin-top: -146%;
+    margin-left: 12%;
+    margin-right: 9%;
+    font-size: 18px;
+    z-index: 30;
 }

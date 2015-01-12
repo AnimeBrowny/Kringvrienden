@@ -11,10 +11,10 @@ body{
 
 header .logo{
     position: fixed;
-    width: 35%;
+    width: 31%;
     margin: 1%;
     margin-left: 2%;
-    margin-top: 2%;
+    margin-top: 2.5%;
 }
 header h1 {
     position: fixed;
@@ -36,6 +36,7 @@ nav{
     position: fixed;
     margin: 14%;
     width: 100%;
+    margin-top: 13.2%;
 }
 nav ul{
     position: relative;
@@ -110,7 +111,7 @@ div iframe{
     position: relative;
     z-index: -45;
     width: 96%;
-    height: 2600px;
+    height: 1188px;
     margin-left: 2%;
     border: 0;
 }

@@ -1,0 +1,290 @@
+body{
+    position: absolute;
+    width: 99%;
+    background-color: #210809;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Geneva, Verdana, sans-serif;
+    overflow-x: hidden;
+}
+
+
+/*header - logo positie, benaming pagina*/
+header{
+    z-index: 50;
+}
+
+header .logo{
+    position: fixed;
+    width: 31%;
+    margin: 1%;
+    margin-left: 2%;
+    margin-top: 2.5%;
+    z-index: 55;
+}
+header h1 {
+    position: fixed;
+    margin: 85%;
+    margin-top: 6%;
+    color: #ed8719;
+    float: right;
+    font-size: 2em;
+}
+header .achtergrond{
+    position: fixed;
+    z-index: -1;
+    width: 103%;
+    margin: -2%;
+
+}
+/*navigatie - alle tabbladen*/
+
+nav{
+    position: fixed;
+    margin: 14%;
+    width: 100%;
+    margin-top: 13.2%;
+    z-index: 20;
+}
+nav ul{
+    position: relative;
+    list-style: none;
+    z-index: 1;
+    margin-left: -22%;
+    margin-top: -1.1%;
+}
+nav li{
+    float: left;
+    display: inline;
+    margin-left: 8.5%;
+    font-size: 133%;
+    text-decoration: none;
+    width: 7%;
+    border: 43px transparent;
+    margin-top: -1%;
+    border-style: groove;
+    border-color: rgba(155, 99, 32, 0);
+    padding-left: 0%;
+}
+nav img{
+    width: 105%;
+    position: fixed;
+    margin: -3%;
+    margin-left: -19%;
+    z-index: -1;
+}
+nav li a{
+    text-decoration: none;
+    color: #000;
+}
+nav li a:hover{
+    color: #ffffff;
+    cursor: pointer;
+}
+/*navigatie - het submenu*/
+nav ul ul{
+    position: absolute;
+    display: block;
+    margin-top: 2%;
+    font-size: 17px;
+    margin-left: -21.4%;
+    visibility: hidden;
+}
+nav ul ul li {
+    display: block;
+    margin-top: -4.2%;
+    padding-top: 2%;
+    margin-bottom: 0%;
+    margin-left: 46%;
+    z-index: -30;
+    background: url(images/perkament-nav.png)no-repeat;
+    width: 47.9%;
+    padding-left: 3%;
+    height: 25px;
+    border: 20px;
+    border-style: groove;
+    border-color: rgba(155, 99, 32, 0);
+}
+nav ul ul li a{
+    display: block;
+    margin: -4%;
+    margin-left: 11%;
+    margin-top: -1%;
+}
+nav ul li:hover ul {
+    visibility: visible;
+}
+/*div - de artikelinhoud*/
+section{
+    position: relative;
+    z-index: -40;
+    width: 96%;
+    height: 1188px;
+    margin-left: 2%;
+}
+article {
+    margin-top: -42%;
+    color: black;
+    margin-left: 14%;
+    position: absolute;
+    z-index: 0;
+}
+section img{
+    width: 97%;
+    z-index: -40;
+    position: absolute;
+}
+
+/*footer - copyright etc*/
+footer img{
+    position: fixed;
+    left:0%;
+    bottom:0%;
+    height:2%;
+    width:100%;
+    z-index: 1;
+}
+footer p{
+    position: fixed;
+    left: 0%;
+    bottom: 0%;
+    height: 0.5%;
+    width: 100%;
+    color: #ffffff;
+    z-index: 5;
+    text-align: center;
+    font-size: 50%;
+}
+footer a{
+    position: fixed;
+    left: -1%;
+    bottom: 0%;
+    height: 1.7%;
+    width: 100%;
+    color: #ffffff;
+    z-index: 5;
+    font-size: 65%;
+    text-align: right;
+}
+
+@media only screen and (max-width: 1024px) {
+    header h1 {
+        position: fixed;
+        margin: 85%;
+        margin-top: 5%;
+        color: #ed8719;
+        float: right;
+        font-size: 1.7em;
+    }
+    nav ul{
+        position: relative;
+        list-style: none;
+        z-index: 1;
+        margin-left: -26%;
+        margin-top: -2.3%;
+        font-size: 15px;
+    }
+    nav li {
+        float: left;
+        display: inline;
+        margin-left: 8.5%;
+        font-size: 133%;
+        text-decoration: none;
+        width: 8%;
+        border: 33px transparent;
+        margin-top: -1%;
+        border-style: groove;
+        border-color: rgba(155, 99, 32, 0);
+        padding-left: 0%;
+    }
+    nav ul ul {
+        position: absolute;
+        display: block;
+        margin-top: 2%;
+        font-size: 14px;
+        margin-left: -29.4%;
+        visibility: hidden;
+    }
+    nav ul li:hover ul {
+        visibility: visible;
+    }
+    nav ul ul li {
+        display: block;
+        margin-top: -4%;
+        padding-top: 5%;
+        margin-bottom: -3%;
+        margin-left: 55%;
+        z-index: -30;
+        background: url(images/perkament-nav.png)no-repeat;
+        width: 77.9%;
+        padding-left: 3%;
+        height: 25px;
+        border: 20px;
+        border-style: groove;
+        border-color: rgba(155, 99, 32, 0);
+    }
+    section iframe{
+        position: relative;
+        z-index: -45;
+        width: 96%;
+        height: 1845px;
+        margin-left: 2%;
+        border: 0;
+    }
+
+}
+
+@media only screen and (max-width: 640px) {
+    header h1 {
+        position: fixed;
+        margin: 84%;
+        margin-top: 5%;
+        color: #ed8719;
+        float: right;
+        font-size: 1.3em;
+    }
+    nav ul {
+        position: relative;
+        list-style: none;
+        z-index: 1;
+        margin-left: -22%;
+        margin-top: -4%;
+        font-size: 13px;
+    }
+    nav li {
+        float: left;
+        display: inline;
+        margin-left: 5.5%;
+        font-size: 133%;
+        text-decoration: none;
+        width: 11%;
+        border: 15px transparent;
+        margin-top: 1%;
+        border-style: groove;
+        border-color: rgba(155, 99, 32,);
+        padding-left: 0%;
+    }
+    nav ul ul li {
+        display: block;
+        margin-top: -4%;
+        padding-top: 1%;
+        margin-bottom: -1%;
+        margin-left: 32%;
+        z-index: -30;
+        background: url(images/perkament-nav2.png)no-repeat;
+        width: 33%;
+        padding-left: 3%;
+        height: 34px;
+        border: 13px;
+        border-style: groove;
+        border-color: rgba(155, 99, 32, 0);
+    }
+    section iframe{
+        position: relative;
+        z-index: -45;
+        width: 96%;
+        height: 1150px;
+        margin-left: 2%;
+        border: 0;
+    }
+
+}
+
